@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wizzle</string>
+    <string-array name="department">
+        <item>Developer</item>
+        <item>Support</item>
+        <item>Research and Development</item>
+        <item>Marketing</item>
+        <item>Technical</item>
+        <item>Human Resource</item>
+    </string-array>
+    <string name="delete">DELETE</string>
+</resources>
